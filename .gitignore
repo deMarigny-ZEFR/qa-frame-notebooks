@@ -1,3 +1,4 @@
 .idea
 venv
 qa-frame-config.toml
+output
